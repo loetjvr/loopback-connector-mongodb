@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-mongodb-mod",
-  "version": "1.15.0",
+  "version": "1.16.0",
   "description": "LoopBack MongoDB Connector",
   "keywords": [
     "StrongLoop",
@@ -16,22 +16,23 @@
     "test": "make test"
   },
   "dependencies": {
-    "async": "^1.0.0",
-    "debug": "^2.1.1",
-    "loopback-connector": "^2.2.0",
-    "moment": "^2.10.6",
-    "mongodb": "~2.0.35"
+    "async": "^1.5.2",
+    "debug": "^2.2.0",
+    "kerberos": "0.0.18",
+    "loopback-connector": "^2.3.0",
+    "moment": "^2.11.2",
+    "mongodb": "^2.0.55"
   },
   "devDependencies": {
     "benchmark": "^1.0.0",
-    "bluebird": "^2.9.12",
-    "loopback-datasource-juggler": "^2.28.0",
-    "memwatch-next": "^0.2.6",
-    "mocha": "^2.1.0",
-    "rc": "^1.0.0",
-    "semver": "^4.2.0",
-    "should": "^5.0.0",
-    "sinon": "^1.15.4"
+    "bluebird": "^2.10.2",
+    "loopback-datasource-juggler": "^2.45.1",
+    "memwatch-next": "^0.2.10",
+    "mocha": "^2.4.5",
+    "rc": "^1.1.6",
+    "semver": "^4.3.6",
+    "should": "^5.2.0",
+    "sinon": "^1.17.3"
   },
   "repository": {
     "type": "git",
