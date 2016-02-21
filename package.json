@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-mongodb-mod",
-  "version": "1.14.0",
+  "version": "1.15.0",
   "description": "LoopBack MongoDB Connector",
   "keywords": [
     "StrongLoop",
